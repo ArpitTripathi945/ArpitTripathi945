@@ -1,3 +1,4 @@
+[![MasterHead](https://referbruv.com/wp-content/uploads/2022/05/flutter-banner.png?ezimgfmt=ng%3Awebp%2Fngcb3%2Frs%3Adevice%2Frscb3-1)]
 <h1 align="center">Hi 👋, I'm Arpit Tripathi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="350" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
