@@ -1,6 +1,7 @@
 ![MasterHead](https://www.zealousweb.com/wp-content/uploads/2021/06/Blog-Banner-9.jpg)
 <h1 align="center">Hi 👋, I'm Arpit Tripathi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+<h3></h3>
 
 
 
