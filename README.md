@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Transport project for my university.**
 
-- 🌱 I’m currently learning **Machine Learning, ReactJs**
+- 🌱 I’m currently learning **Flutter, Machine Learning, **
 
 - 👯 I’m looking to collaborate on **Flutter related projects.**
 
